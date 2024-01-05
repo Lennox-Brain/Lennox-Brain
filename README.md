@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Lennox-Brain
 - 👀 I’m interested in FrontEnd and Backend (Laravel, VUE, TailwindCss)
-- 🌱 I’m currently learning typescript and wordpress development
+- 🌱 I’m currently learning typescript and WordPress development
 - 💞️ I’m looking to collaborate on projects with Laravel, Vue JS, Typescript, TailwindCss, PHP, WordPress Themes and Plugins Development
-- 📫 How to reach me: lennpxbrain@gmail.com
+- 📫 How to reach me: lennoxbrain@gmail.com
 
 <!---
 Lennox-Brain/Lennox-Brain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
