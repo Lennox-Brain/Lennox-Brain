@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lennox-Brain
-- 👀 I’m interested in FrontEnd and Backend (Laravel, VUE, TailwindCss)
-- 🌱 I’m currently learning typescript and WordPress development
-- 💞️ I’m looking to collaborate on projects with Laravel, Vue JS, Typescript, TailwindCss, PHP, WordPress Themes and Plugins Development
+- 👀 I’m a DevOps engineer with tons of experience in Laravel (PHP), Node.js (Adonis), Python, C#, VUE, TailwindCSS, Docker, Kubernetes, Azure, GCP etc. 
+- 🌱 I’m currently learning Typescript and WordPress themes and plugins development
+- 💞️ I’m looking to collaborate on projects with Laravel, Vue JS, Typescript, TailwindCSS, PHP, WordPress Themes and Plugins Development
 - 📫 How to reach me: lennoxbrain@gmail.com
 
 <!---
